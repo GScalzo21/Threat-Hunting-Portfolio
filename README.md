@@ -1,5 +1,7 @@
 # 🛡️ Threat Hunting Portfolio
 
+![image](https://github.com/user-attachments/assets/784e1215-644f-408f-bf83-a4f098e82e03)
+
 Welcome to my Threat Hunting Portfolio! This repository showcases hands-on threat hunting projects where I design, execute, and document threat detection scenarios using a variety of security tools and techniques.
 
 Each project includes:
@@ -14,26 +16,20 @@ Each project includes:
 
 ## 🚀 Projects
 
-### 1️⃣ [TOR Browser Usage Hunt](./TOR-Browser-Usage-Hunt)
+###  [TOR Browser Usage Hunt](https://github.com/GScalzo21/Threat-Hunting-Portfolio/tree/GScalzo21/threat-hunting-scenario-tor-Main)  
 Detecting unauthorized installation and use of the TOR Browser in an enterprise environment.
 
-### 2️⃣ [Insider Data Exfiltration - Google Drive CLI](./Insider-Data-Exfiltration-Google-Drive)
+###  [Insider Data Exfiltration - Google Drive CLI](https://github.com/GScalzo21/Threat-Hunting-Portfolio/tree/GScalzo21/Threat-Hunt-Report-Unauthorized-Data-Exfiltration-via-Notepad-and-Google-Drive-CLI-GScalzo21)  
 Detecting data exfiltration using the Google Drive CLI tool.
 
-### 3️⃣ [Insider Data Exfiltration - Dropbox CLI](./Insider-Data-Exfiltration-Dropbox-CLI)
+###  [Insider Data Exfiltration - Dropbox CLI](https://github.com/GScalzo21/Threat-Hunting-Portfolio/tree/GScalzo21/Threat-Event-Unauthorized-Data-Exfiltration-via-Dropbox-CLI--GScalzo21)  
 Detecting data exfiltration using the Dropbox CLI.
 
-### 4️⃣ [Insider Data Exfiltration - Notepad++](./Insider-Data-Exfiltration-NotepadPlusPlus)
+###  [Insider Data Exfiltration - Notepad++](https://github.com/GScalzo21/Threat-Hunting-Portfolio/tree/GScalzo21/Threat-Hunt-Report-Unauthorized-Data-Exfiltration-via-Notepad-and-Google-Drive-CLI-GScalzo21)  
 Detecting insider activity using Notepad++ to stage and exfiltrate sensitive files.
 
-### 5️⃣ [Azure Honeynet Project](./Azure-Honeynet-Project) *(optional if you want to move it here, or leave it in its own repo)*  
+###  [Azure Honeynet Project](https://github.com/GScalzo21/Threat-Hunting-Portfolio/tree/GScalzo21/Azure-Honeynet-Project)  
 Building and monitoring a honeynet in Microsoft Azure with live attack traffic.
-
----
-
-## 📚 Related Repositories
-
-👉 Check out my [Cybersecurity Labs](https://github.com/GScalzo21/Cybersecurity-Labs) repository for smaller detection labs, YARA exercises, and tuning projects.
 
 ---
 
@@ -55,3 +51,4 @@ The goal of this portfolio is to demonstrate:
 - Always open to connecting with fellow cybersecurity professionals!
 
 ---
+
